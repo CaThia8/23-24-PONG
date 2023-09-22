@@ -7,6 +7,13 @@ public class MovimientoPala : MonoBehaviour
     public float velocidad;
     public bool JugadorB;
     // Start is called before the first frame update
+    //float= numero decimal; bool=true/false
+    //El simbolo "=" se pude usar para modificar un imput anterior
+    //Debut.Log = rescata una varieble
+    //if + () =ejecuta la orden de "bool", si es "true" lo ejecuta y si no ejecuta lo que está dentro del "else"
+    //Input.GatAxis = depende de la orden del teclado ejecuta lo que pongas en parentesis
+    //transform.position = es una suma de direccion y posicion que sirve para el movimiento del objeto
+
     void Start()
     {}
     // Update is called once per frame
