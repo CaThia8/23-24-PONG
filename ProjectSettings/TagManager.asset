@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Horizontal
   - Vertical
+  - Porteria A
+  - Porteria B
   layers:
   - Default
   - TransparentFX
